@@ -1,0 +1,27 @@
+.ytp-chapters-container {
+    display: none !important;
+}
+
+.ytp-progress-bar-container {
+    display: none !important;
+}
+
+.ytp-time-display.notranslate {
+    display: none !important;
+}
+
+.ytp-chapter-container {
+    display: none !important;
+}
+
+ytd-comments {
+    display: none !important;
+}
+
+ytd-text-inline-expander {
+    display: none !important;
+}
+
+div#secondary {
+    display: none;
+}

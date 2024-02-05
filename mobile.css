@@ -1,0 +1,23 @@
+.ytm-time-display {
+    display: none !important;
+}
+
+.watch-page-progress-bar.YtProgressBarHost {
+    display: none !important;
+}
+
+ytm-expandable-video-description-body-renderer.expandable-video-description-modern {
+    display: none !important;
+}
+
+ytm-horizontal-card-list-renderer.modern-typography {
+    display: none !important;
+}
+
+ytm-comments-entry-point-header-renderer.modern-styling {
+    display: none !important;
+}
+
+.player-controls-bottom.cbox {
+    flex-direction: row-reverse;
+}
